@@ -33,3 +33,7 @@ Flask for the backend API
 SQLAlchemy as ORM
 Flask-Migrate for database migrations
 SQLite (default) as the database engine
+
+
+
+Video link -** https://drive.google.com/file/d/1zbO8Ld89Q28OXZkJ-eG7jg5Odht0K22Z/view?usp=sharing**
