@@ -1,7 +1,7 @@
 # odoo-hackathon-2025
 Submission for Odoo Hackathon 2025
 
-Problem Statement:-  **StackIt – A Minimal Q&A Forum Platform**
+Problem Statement:-  **Skill Swap Platform**
 
 Team Details -- 
 TL - Yash Verma , 
